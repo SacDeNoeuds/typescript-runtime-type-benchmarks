@@ -63,6 +63,7 @@
 * [type-predicate-generator](https://github.com/peter-leonov/typescript-predicate-generator)
 * [typia](https://github.com/samchon/typia)
 * [@typeofweb/schema](https://github.com/typeofweb/schema)
+* [unhoax](https://github.com/SacDeNoeuds/unhoax)
 * [unknownutil](https://github.com/lambdalisue/deno-unknownutil)
 * [valibot](https://github.com/fabian-hiller/valibot)
 * [valita](https://github.com/badrap/valita)
