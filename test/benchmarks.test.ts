@@ -53,6 +53,7 @@ import '../cases/tson';
 import '../cases/typeofweb-schema';
 import '../cases/typia';
 import '../cases/unknownutil';
+import '../cases/unhoax';
 import '../cases/valibot';
 import '../cases/valita';
 import '../cases/vality';

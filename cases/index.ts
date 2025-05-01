@@ -60,6 +60,7 @@ export const cases = [
   'ts-auto-guard',
   'type-predicate-generator',
   'jet-validators',
+  'unhoax',
 ] as const;
 
 export type CaseName = (typeof cases)[number];
